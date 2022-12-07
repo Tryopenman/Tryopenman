@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working in projects proposed in college
 - 🌱 I’m currently learning JAVA, HTML,CSS
