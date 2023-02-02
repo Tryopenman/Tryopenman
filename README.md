@@ -32,7 +32,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tryopenman}/count.svg" /></p> 
+<p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{tryopenman}/count.svg" /></p> 
 <br>
 </div>
   
